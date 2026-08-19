@@ -1,6 +1,6 @@
 import pyodbc
 
-server = r"LAPTOP-68Q8RMK8\SQLEXPRESS"   # Change if your server name is different
+server = r"LAPTOP-68Q8RMK8\SQLEXPRE"   # Change if your server name is different
 database = "AIProjectMentor"
 
 try:
